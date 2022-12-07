@@ -1,0 +1,2 @@
+# godmode.sh
+Monitor script
